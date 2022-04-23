@@ -12,4 +12,12 @@ class Mathematics
     {
         return $a / $b;
     }
+    public function multiplication($a, $b)
+    {
+        return $a * $b;
+    }
+    public function difference($a, $b)
+    {
+        return $a - $b;
+    }
 }
