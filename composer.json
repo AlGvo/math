@@ -1,0 +1,23 @@
+{
+  "config": {
+    "preferred-install": "dist",
+    "disable-tls": true,
+    "secure-http": false
+  },
+  "name": "alexander/mathematics",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Gvozdev",
+      "email": "dp161185gav@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Mathematics\\": "scr"
+    }
+  }
+}
