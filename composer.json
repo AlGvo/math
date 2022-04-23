@@ -13,7 +13,7 @@
       "email": "dp161185gav@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {},
   "autoload": {
     "psr-4": {
