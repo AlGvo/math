@@ -20,4 +20,8 @@ class Mathematics
     {
         return $a - $b;
     }
+    public function exponentiation($a, $b)
+    {
+        return pow($a, $b);
+    }
 }
