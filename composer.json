@@ -4,7 +4,7 @@
     "disable-tls": true,
     "secure-http": false
   },
-  "name": "alexander/mathematics",
+  "name": "algvo/mathematics",
   "type": "library",
   "license": "MIT",
   "authors": [
